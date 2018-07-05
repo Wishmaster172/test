@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_tH078YAtEei4K4mHGQEyTA" label="sbischoff_github" language="java" technicalLabel="SBISCHOFF_GITHUB" author="_tH078oAtEei4K4mHGQEyTA" productVersion="Talend Integration Cloud Elastic Edition-6.5.1.20180116_1512" url="{&quot;location&quot;:&quot;https://github.com/Wishmaster172/test.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false"/>
+  <TalendProperties:User xmi:id="_tH078oAtEei4K4mHGQEyTA" login="sbischoff@se.demo.talend.com" firstName="Steffen" lastName="Bischoff" type="DQ"/>
+</xmi:XMI>
